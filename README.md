@@ -15,9 +15,9 @@ I'm a frontend developer from Indonesia with a passion for UI/UX and web develop
 
 
 ![Gmail Badge](https://img.shields.io/badge/azzahra.fadita%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto%3Aazzahra.fadita%40gmail.com)
-![LinkedIn Badge](https://img.shields.io/badge/Fadita%20Ayu%20Azzahra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffadita-ayu-azzahra%2F)
-![Instagram Badge](https://img.shields.io/badge/fadita.azzahra-purple?style=flat-square&logo=Instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Ffadita.azzahra%2F)
-![Medium Badge](https://img.shields.io/badge/Fadita%20Ayu%20Azzahra-black?style=flat-square&logo=Medium&logoColor=white&link=https%3A%2F%2Fmedium.com%2F%40bypadit)
+![LinkedIn Badge](https://img.shields.io/badge/Fadita%20Ayu%20Azzahra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffadita-ayu-azzahra%2F)[https://www.linkedin.com/in/fadita-ayu-azzahra/]
+![Instagram Badge](https://img.shields.io/badge/fadita.azzahra-purple?style=flat-square&logo=Instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Ffadita.azzahra%2F)[https://www.instagram.com/fadita.azzahra/]
+![Medium Badge](https://img.shields.io/badge/Fadita%20Ayu%20Azzahra-black?style=flat-square&logo=Medium&logoColor=white&link=https%3A%2F%2Fmedium.com%2F%40bypadit)[https://medium.com/@bypadit]
 
 <h2>
   <img src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif" width="30"> What I'm Working On
@@ -36,7 +36,7 @@ I'm a frontend developer from Indonesia with a passion for UI/UX and web develop
 - Data Analysis with Python and R
 
 <h2>
-  <img src="https://media.tenor.com/KjlP2exHPCgAAAAi/cute-robot.gif" width="30"> Technologies & Tools
+  <img src="https://media.tenor.com/KjlP2exHPCgAAAAi/cute-robot.gif" width="30"> Language & Tools
 </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
